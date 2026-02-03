@@ -1,2 +1,3 @@
 # Introduction-to-Continuous-Variable-Quantum-Computing
- This Jupyter notebook is the practical companion to the "Introduction to Continuous-Variable Quantum Computing" primer, utilizing the Strawberry Fields platform. 
+ This interactive Jupyter notebook complements the textbook Introduction to Continuous-Variable Quantum Computing by providing hands-on experience using the Strawberry Fields photonic quantum computing framework. It bridges theory and practice through executable code, visual simulations, and step-by-step tutorials on key topics such as continuous-variable quantum gates, Gaussian states, and measurement-based quantum computing. Designed for students, researchers, and enthusiasts, the notebook guides users from foundational concepts to building and simulating their own quantum circuits. Feedback is welcomed to refine this educational resource.
+ 
